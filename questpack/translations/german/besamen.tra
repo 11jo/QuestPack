@@ -149,8 +149,11 @@
 @145  = ~Und ich werde dich immer lieben... *Kuss*~
 @146  = ~Ein letzter, meine Liebe. Lebe in Frieden.~
 @147  = ~Ich muss Euch dafür danken, dass Ihr Baisera wieder einmal zu mir gelenkt habt. Sie war voller Tränen, aber ebenso liebreizend wie damals, als ich sie zum ersten Mal traf.~
-@148  = ~Nun, gibt es irgendetwas, das ich heute für Euch tun kann, <LADYLORD>?~
-
+@148  = ~Nun, was kann ich heute noch für Euch tun?~
+@149  = ~Nun, ich glaube, ein Mann namens Besamen hat hier vor seinem Tod gearbeitet, richtig?~
+@150  = ~Yes, yes, er war ein Bote. Schrecklich, was mit ihm passiert ist, yes. Ich seiner Familie Entschädigung gezahlt. Aber ich weiß nichts von ihm - Enge stellt keine Fragen an seine Angestellten. Sowas mich nicht sehr interessieren.~
+@151  = ~Verstehe, darf jetzt ich Eure Waren sehen?~
+@152  = ~Das ist alles, was ich wissen wollte. Auf Wiedersehen.~
 @153 = ~Besamen und Baisera.
 
 In einer Gruft auf dem Friedhof von Athkatla begegnete ich einem seltsamen untoten Mann, der sich selbst Besamen nannte. Er erwähnte eine Frau, mit der er vor seinem Ableben verheiratet gewesen war, Baisera. Der Mann glaubte, dass eine Ladenbesitzerin an der Promenade namens Mira möglicherweise Informationen über den Verbleib von Baisera haben könnte. Vielleicht sollte ich die Initiative übernehmen und sie aufsuchen.~
@@ -166,3 +169,4 @@ Ich traf Baisera in den Hinterzimmern der Kupferkrone und überzeugte sie davon, 
 @157 = ~Baisera für Besamen finden.
 
 Eine untote Kreatur auf dem Friedhof namens Besamen bat mich die Frau aufzusuchen, mit der er vor seinem Ableben verheiratet gewesen war, Baisera. Ich brachte sie zu ihm und ihre letzte liebende Umarmung brachte ihm Frieden.~
+@158 = ~Besamen und Baisera~

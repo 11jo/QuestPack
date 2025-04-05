@@ -141,7 +141,7 @@ Heilung (1x täglich)
 @196 = ~Ihr seid in die Falle gegangen und habt den Köder geschluckt. Nun seid Ihr verwundbar und meine Attentäter sind in Bereitschaft! Lasst die Masken der Nacht Euch erledigen!~
 @197 = ~Ähm, hallo. Ich... ich bin Euch gefolgt und... und es tut mir schrecklich leid wegen der Sauerei mit dieser Ama Person. Mein Informant sagt, dass ihre Gefolgschaft die Abzeichen der Masken der Nacht trägt.~
 @198 = ~Ein Brief von Mae'Var an die Attentäter der Masken der Nacht, in dem er den Tod von Renal Blutskalp fordert. Das ist genau die Art von Beweis, die Renal benötigt.~
-@199 = ~Tethyrscher Schildknappe~
+@199 = ~Tethyrischer Schildträger~
 @200 = ~Bastion~
 @201 = ~Schildschlag~
 @202 = ~Als Ihr Euch durch diesen bestimmten Teil der finsteren Höhlen bewegt, erregt ein undeutliches, widerhallendes Geräusch, das von der felsigen Wand kommt, Eure Aufmerksamkeit. Da ist irgendwo in der Dunkelheit ein Durchgang verborgen.~
@@ -305,9 +305,9 @@ Dieser Zauber umhüllt das Ziel mit einem weißen Glühen. Da es dadruch leichter g
 @291 = ~Älterer Vampir~
 @292 = ~Uralter Vampir~
 @293 = ~Hilfe!~
-@294 = ~Ich brache Unterstützung!~
-@295 = ~Ich kann das nicht nehmen!~
-@296 = ~Nichts mehr!~
+@294 = ~Ich benötige Unterstützung!~
+@295 = ~Das ist mir zu viel!~
+@296 = ~Nein, hört auf!~
 @297 = ~Yuan-Ti Magier~
 @298 = ~Verwirrender Blick~
 @299 = ~Beherrschender Blick~
